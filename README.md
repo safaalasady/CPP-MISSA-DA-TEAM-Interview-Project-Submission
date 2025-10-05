@@ -12,3 +12,5 @@ Objectives:
 - Summarize insights and present recommendations based on the results.
 
 Tools Used: Microsoft Excel | Python (Pandas, Matplotlib) | Tableau | Google Slides
+
+Note: To open the Python output, please download the .html file and open it in your web browser. 
